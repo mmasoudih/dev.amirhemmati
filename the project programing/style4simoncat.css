@@ -1,0 +1,133 @@
+﻿body {
+    background-image: url(http://simoncat.ir/wp-content/uploads/2014/10/home_vet_bgd.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-position-x: center;
+    background-position-y: top;
+}
+
+#dheader {
+    width: 1240px;
+    margin-top: 40px;
+}
+
+#img-simoncat {
+    margin-left: 33px;
+}
+
+.btn-group-menu {
+    margin-top: 6px;
+    height: 50px;
+    color: white;
+}
+
+.btn-group-menu:hover {
+    color: white;
+    background-color: #ff7770;
+}
+
+.btn-group-menu:hover span {
+    border: none;
+}
+
+.bgmnoone {
+    margin-right: 3px;
+}
+
+.one1 {
+    background-color: #ff7770;
+}
+
+.man {
+    border-left: 1px solid black;
+    opacity: 0.2;
+    margin-right: 15px;
+}
+
+#link-storecat {
+    background-color: #ff7770;
+    color: white;
+    height: 40px;
+    margin-right: 10px;
+}
+
+#link-storecat:hover {
+    background-color: #e65a52;
+}
+
+.span-search {
+    margin-left: 10px;
+    color: black;
+    margin-right: 10px;
+    text-decoration: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+#divblack {
+    background-color: black;
+    height: 85px;
+    margin-top: 15px;
+}
+
+#divblack-two p:first-child {
+    font-size: 13px;
+}
+
+#divblack-two {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#hone {
+    text-align: right;
+    direction: rtl;
+}
+
+#div-search-tow {
+    background-color: #ff7770;
+    position: relative;
+    z-index: 1500;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    top: -20px;
+}
+
+#input-search-text {
+    background-color: #ff7770;
+    border: none;
+    outline: none;
+    color: white;
+    width: 100%;
+    text-align: right;
+    direction: rtl;
+    border-bottom: 1px solid black;
+    padding-right: 20px;
+}
+
+#close-times {
+    position: relative;
+    top: 20px;
+    cursor: pointer;
+    color: white;
+    opacity: 0.4 ;
+}
+
+#close-times:hover{
+    opacity: 1;
+}
+
+.search-in-input{
+    position: relative;
+    top: 20px;
+}
+
+.amir{
+    border-bottom: 1px solid rgb(92, 92, 92);
+    opacity: 0.2;
+}
